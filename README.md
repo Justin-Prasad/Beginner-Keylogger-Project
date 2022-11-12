@@ -10,3 +10,13 @@ This function of this project is pretty much given away in the title. It's reall
 Let's say a I had this running in the background for some unknown reason. Perhaps it was to test it. Now, the pynput API will recognize inputs from the keyboard no matter where you are typing. It can be in google, it can be in a login website, or any other text field. For the purposes of this demo, I will assume the role of someone typing "How to cook instant ramen" into a google text field.  
 
 ![image](https://user-images.githubusercontent.com/101998961/201499069-d255113e-4088-4d8d-bc1c-8a613c3f0e84.png)
+
+The way that the code works is that when it is running, it essentially logs the inputs from the keyboard through the python pynput API and it prints it to the terminal, and as well as that, upon the first key, a new text file is created by the name of "log.txt" and the contents are stored there as well. This will be shown below. 
+
+This is what the terminal output looks like:
+![image](https://user-images.githubusercontent.com/101998961/201499203-6fd71648-dd98-41bc-af11-6cf9226e43b9.png)
+
+As a disclaimer, the error messages are messages being printed from some exception handling I added for keys that aren't members of the alphabet. This includes keys such as ```shift```, ```space```, and ```delete```. 
+
+This is what the newly created log.txt file looks like:
+![image](https://user-images.githubusercontent.com/101998961/201499285-c8579261-37d9-42c2-81db-fcdb23521c29.png)
