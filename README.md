@@ -14,9 +14,11 @@ Let's say a I had this running in the background for some unknown reason. Perhap
 The way that the code works is that when it is running, it essentially logs the inputs from the keyboard through the python pynput API and it prints it to the terminal, and as well as that, upon the first key, a new text file is created by the name of "log.txt" and the contents are stored there as well. This will be shown below. 
 
 This is what the terminal output looks like:
+
 ![image](https://user-images.githubusercontent.com/101998961/201499203-6fd71648-dd98-41bc-af11-6cf9226e43b9.png)
 
 As a disclaimer, the error messages are messages being printed from some exception handling I added for keys that aren't members of the alphabet. This includes keys such as ```shift```, ```space```, and ```delete```. 
 
 This is what the newly created log.txt file looks like:
+
 ![image](https://user-images.githubusercontent.com/101998961/201499285-c8579261-37d9-42c2-81db-fcdb23521c29.png)
