@@ -34,6 +34,6 @@ It doesn't take a genius to see to see what the biggest application of this prog
 
 With that being said, let's go over some ways to prevent keyloggers (and by extension, other people) from stealing your info.
 
-1. _Download reputable antivirus/antimalware software._ This is easily the most accessible way for the average person to protect their computer from these kinds of      malicious softwares. In fact, while making this project, I always got notifications from Windows Defender program when trying to test this project as it was        raising behaviour. Realistically, these reputable antivirus softwares are usually more than enough combined with general internet safety to keep your computer      safe.
+1. _Download reputable antivirus/antimalware software._ This is easily the most accessible way for the average person to protect their computer from these kinds of     malicious softwares. In fact, while making this project, I always got notifications from Windows Defender program when trying to test this project as it was         raising suspicious behaviour. Realistically, these reputable antivirus softwares are usually more than enough combined with general internet safety to keep         your computer safe.
 2. _Observe the task manager._ 
 
