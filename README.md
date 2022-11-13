@@ -23,7 +23,8 @@ As a disclaimer, the error messages are messages being printed from some excepti
 
 This is what the newly created log.txt file looks like:
 
-![image](https://user-images.githubusercontent.com/101998961/201499285-c8579261-37d9-42c2-81db-fcdb23521c29.png)
+![image](https://user-images.githubusercontent.com/101998961/201501614-c748de3f-3e21-4230-b266-fef2ae7ede9b.png)
+
 
 As mentioned before, I added exception handling to handle printing spaces and things of the sort, and so it won't show up as such in the text file. 
 
