@@ -30,4 +30,10 @@ As mentioned before, I added exception handling to handle printing spaces and th
 If one so wants to, they could potentially leave the program running, and in doing so any and all keystrokes are added to the ```log.txt``` file.
 
 # Applications in the real world
-It doesn't take a genius to see to see what the biggest application of this program is. Keyloggers are an incredibly powerful tool for reconnaisance if the user has no idea they even downloaded it in the first place. They're essentially giving someone their information without even knowing it! While I do find these applications interesting in a purely conceptual manner, **I do not condone the malicious use of such software and urge others to be careful of such software as well.**  
+It doesn't take a genius to see to see what the biggest application of this program is. Keyloggers are an incredibly powerful tool for reconnaisance if the user has no idea they even downloaded it in the first place. They're essentially giving someone their information without even knowing it! While I do find these applications interesting in a purely conceptual manner, **I do not condone the malicious use of such software and urge others to be careful of such software as well.** 
+
+With that being said, let's go over some ways to prevent keyloggers (and by extension, other people) from stealing your info.
+
+1. _Download reputable antivirus/antimalware software._ This is easily the most accessible way for the average person to protect their computer from these kinds of      malicious softwares. In fact, while making this project, I always got notifications from Windows Defender program when trying to test this project as it was        raising behaviour. Realistically, these reputable antivirus softwares are usually more than enough combined with general internet safety to keep your computer      safe.
+2. _Observe the task manager._ 
+
